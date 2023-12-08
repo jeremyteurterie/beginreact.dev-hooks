@@ -7,7 +7,7 @@
 import React from 'react';
 import { Link, Navigate, Route, Routes } from 'react-router-dom';
 import { ExerciseProse } from './ExerciseProse.jsx';
-import { EXERCISES } from './exercises';
+import { EXERCISES } from './exercises.jsx';
 
 export const Router = () => {
   return (

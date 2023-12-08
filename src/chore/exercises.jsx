@@ -6,10 +6,10 @@
 // Exercises
 import UseState5 from '../exercise/1-use-state/01.extra.5.jsx';
 import UseState1 from '../exercise/1-use-state/01.jsx';
-import UseEffect from '../exercise/2-use-effect/02';
-import UseRef from '../exercise/3-use-ref/03';
-import UseContext from '../exercise/4-use-context/04';
-import UseReducer from '../exercise/5-use-reducer/05';
+import UseEffect from '../exercise/2-use-effect/02.jsx';
+import UseRef from '../exercise/3-use-ref/03.jsx';
+import UseContext from '../exercise/4-use-context/04.jsx';
+import UseReducer from '../exercise/5-use-reducer/05.jsx';
 import Render2 from '../exercise/6-understand-render/06.extra.2.jsx';
 import Render3 from '../exercise/6-understand-render/06.extra.3.jsx';
 import Render4 from '../exercise/6-understand-render/06.extra.4.jsx';
@@ -23,43 +23,43 @@ import { ReactComponent as UseContextMarkdown } from '../exercise/4-use-context/
 import { ReactComponent as UseReducerMarkdown } from '../exercise/5-use-reducer/05.md';
 import { ReactComponent as RenderMarkdown } from '../exercise/6-understand-render/06.md';
 // ExerciseProse 1
-import Solution1Exercise1 from '../final/1-1';
-import Solution1Exercise2 from '../final/1-2';
-import Solution1Exercise3 from '../final/1-3';
-import Solution1Exercise4 from '../final/1-4';
-import Solution1Exercise5 from '../final/1-5';
-import Solution1Exercise6 from '../final/1-6';
-import Solution1Exercise7 from '../final/1-7';
+import Solution1Exercise1 from '../final/1-1.jsx';
+import Solution1Exercise2 from '../final/1-2.jsx';
+import Solution1Exercise3 from '../final/1-3.jsx';
+import Solution1Exercise4 from '../final/1-4.jsx';
+import Solution1Exercise5 from '../final/1-5.jsx';
+import Solution1Exercise6 from '../final/1-6.jsx';
+import Solution1Exercise7 from '../final/1-7.jsx';
 // ExerciseProse 2
-import Solution2Exercise1 from '../final/2-1';
-import Solution2Exercise2 from '../final/2-2';
-import Solution2Exercise3 from '../final/2-3';
-import Solution2Exercise4 from '../final/2-4';
-import Solution2Exercise5 from '../final/2-5';
-import Solution2Exercise6 from '../final/2-6';
-import Solution2Exercise7 from '../final/2-7';
-import Solution2Exercise8 from '../final/2-8';
+import Solution2Exercise1 from '../final/2-1.jsx';
+import Solution2Exercise2 from '../final/2-2.jsx';
+import Solution2Exercise3 from '../final/2-3.jsx';
+import Solution2Exercise4 from '../final/2-4.jsx';
+import Solution2Exercise5 from '../final/2-5.jsx';
+import Solution2Exercise6 from '../final/2-6.jsx';
+import Solution2Exercise7 from '../final/2-7.jsx';
+import Solution2Exercise8 from '../final/2-8.jsx';
 // ExerciseProse 3
-import Solution3Exercise1 from '../final/3-1';
-import Solution3Exercise2 from '../final/3-2';
-import Solution3Exercise3 from '../final/3-3';
+import Solution3Exercise1 from '../final/3-1.jsx';
+import Solution3Exercise2 from '../final/3-2.jsx';
+import Solution3Exercise3 from '../final/3-3.jsx';
 // ExerciseProse 4
-import Solution4Exercise1 from '../final/4-1';
-import Solution4Exercise2 from '../final/4-2';
-import Solution4Exercise3 from '../final/4-3';
+import Solution4Exercise1 from '../final/4-1.jsx';
+import Solution4Exercise2 from '../final/4-2.jsx';
+import Solution4Exercise3 from '../final/4-3.jsx';
 // import Solution4Exercise4 from '../final/4-4';
 // ExerciseProse 5
-import Solution5Exercise1 from '../final/5-1';
-import Solution5Exercise2 from '../final/5-2';
-import Solution5Exercise3 from '../final/5-3';
-import Solution5Exercise4 from '../final/5-4';
-import Solution5Exercise5 from '../final/5-5.bonus';
+import Solution5Exercise1 from '../final/5-1.jsx';
+import Solution5Exercise2 from '../final/5-2.jsx';
+import Solution5Exercise3 from '../final/5-3.jsx';
+import Solution5Exercise4 from '../final/5-4.jsx';
+import Solution5Exercise5 from '../final/5-5.bonus.jsx';
 // ExerciseProse 6
-import Solution6Exercise1 from '../final/6-1';
-import Solution6Exercise2 from '../final/6-2';
-import Solution6Exercise3 from '../final/6-3';
-import Solution6Exercise4 from '../final/6-4';
-import Solution6Exercise5 from '../final/6-5';
+import Solution6Exercise1 from '../final/6-1.jsx';
+import Solution6Exercise2 from '../final/6-2.jsx';
+import Solution6Exercise3 from '../final/6-3.jsx';
+import Solution6Exercise4 from '../final/6-4.jsx';
+import Solution6Exercise5 from '../final/6-5.jsx';
 
 export const EXERCISES = [
   {
